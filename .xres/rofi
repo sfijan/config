@@ -1,0 +1,7 @@
+! Rofi
+rofi.show: run
+rofi.width: 30
+rofi.location: 1
+rofi.xoffset: 50
+rofi.yoffset: 50
+rofi.lines: 6

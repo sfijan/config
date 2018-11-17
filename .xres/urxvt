@@ -1,0 +1,70 @@
+! geometry
+URxvt.geometry: 80x25
+
+! cursor
+URxvt.cursorBlink:	true
+URxvt.cursorUnderline:	1
+
+
+! borders
+!URxvt*externalBorder:     0
+URxvt*internalBorder:     20
+URxvt*borderLess: false
+
+
+! font
+!URxvt.letterSpace:	-3
+URxvt.font:	    xft:DejaVuSansMono:size=12
+!URxvt.font:	    xft:monaco:size=11
+
+! scrollbar
+URxvt.scrollBar:    false
+
+! transparency
+!URxvt.transparent: true
+!URxvt.shading:	    40
+
+! COLORS
+! special
+*.foreground:   #c7ccd1
+*.background:   #1c2023
+*.cursorColor:  #c7ccd1
+
+! black
+*.color0:       #1c2023
+*.color8:       #747c84
+
+! red
+*.color1:       #c7ae95
+*.color9:       #c7ae95
+
+! green
+*.color2:       #95c7ae
+*.color10:      #95c7ae
+
+! yellow
+*.color3:       #aec795
+*.color11:      #aec795
+
+! blue
+*.color4:       #ae95c7
+*.color12:      #ae95c7
+
+! magenta
+*.color5:       #c795ae
+*.color13:      #c795ae
+
+! cyan
+*.color6:       #95aec7
+*.color14:      #95aec7
+
+! white
+*.color7:       #c7ccd1
+*.color15:      #f3f4f5
+
+!PLUGINS:
+URxvt.perl-ext-common:	resize-font,vtwheel
+
+URxvt.keysym.C-equal:	resize-font:bigger
+URxvt.keysym.C-minus:	resize-font:smaller
+URxvt.keysym.C-plus:	resize-font:reset
