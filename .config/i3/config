@@ -7,7 +7,7 @@ set $mod Mod4
 font pango:monospace, FontAwesome 10
 
 # wallpaper
-set $wallpaper ~/Pictures/wallpapers/wall3.png
+set $wallpaper ~/Pictures/wallpapers/wall1.jpg
 
 # Gaps
 for_window [class="^.*"] border pixel 0

@@ -118,7 +118,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
+#export PATH="$HOME/.rbenv/bin:$PATH"
+#eval "$(rbenv init -)"
 alias config='/usr/bin/git --git-dir=/home/sven/.cfg/ --work-tree=/home/sven'
 alias config='/usr/bin/git --git-dir=/home/sven/.cfg/ --work-tree=/home/sven'
