@@ -4,10 +4,7 @@ set $mod Mod1
 # font
 font pango:monospace, FontAwesome 10
 
-# wallpaper
-#set $wallpaper ~/Pictures/wallpapers/wall1.jpg
-
-# Gaps
+##### GAPS #####
 for_window [class="^.*"] border pixel 0
 gaps inner 20
 gaps outer 10
@@ -15,7 +12,6 @@ bindsym $mod+g exec "i3-msg gaps inner current set 0 && i3-msg gaps outer curren
 bindsym $mod+Shift+g exec "i3-msg gaps inner current set 20 && i3-msg gaps outer current set 10"
 bindsym $mod+Shift+b exec "i3-msg gaps outer currnet set 130"
 bindsym $mod+b exec "i3-msg gaps outer currnet set 10"
-
 
 
 ##### BASIC KEYBOARD SHORTCUTS #####
@@ -80,7 +76,7 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-# woekspaces
+##### WORKSPACES #####
 #set $workspace1 "1:    "
 set $workspace1 " 1 "
 #set $workspace2 "2:    "
