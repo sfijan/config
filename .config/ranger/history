@@ -1,0 +1,10 @@
+open_with evince
+find e
+search help
+vim config
+
+open_with unzip
+search q
+open_with q
+open_with 
+delete
