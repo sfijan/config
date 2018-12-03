@@ -6,9 +6,6 @@ set $mod Mod4
 # is used in the bar {} block below.
 font pango:monospace, FontAwesome 10
 
-# wallpaper
-set $wallpaper ~/Pictures/wallpapers/wall3.png
-
 # Gaps
 for_window [class="^.*"] border pixel 0
 gaps inner 20
@@ -180,11 +177,14 @@ bar {
 exec_always --no-startup-id compton --config ~/.config/compton.conf -b
 
 # Keyboard remaps
-exec ~/Documents/programs/xkbmap.startup.sh
+#exec ~/Documents/programs/xkbmap.startup.sh
+exec_always xmodmap ~/.xres/Xmodmap
 
-# Wallpaper
+# wallpaper
+exec_always ~/.fehbg
+#set $wallpaper ~/Pictures/wallpapers/wall3.png
 #exec_always feh --bg-scale $wallpaper
-exec_always wal -i $wallpaper
+#exec_always wal -i $wallpaper
 
 # Redshift
 exec_always redshift
