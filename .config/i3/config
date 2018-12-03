@@ -203,6 +203,6 @@ bindsym XF86AudioNext exec --no-startup-id cmus-remote -C player-next
 bindsym XF86AudioPrev exec --no-startup-id cmus-remote -C player-prev
 
 # Screen brightness controll
-bindsym XF86MonBrightnessUp exec light -A 2 # increase screen brightness
-bindsym XF86MonBrightnessDown exec light -U 2 # decrease screen brightness
-bindsym $mod+n exec light -S 1 # set night light
+bindsym XF86MonBrightnessUp exec xbacklight -inc 10 # increase screen brightness
+bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # decrease screen brightness
+bindsym $mod+n exec xbacklight -set 1 # set night light

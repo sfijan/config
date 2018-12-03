@@ -35,3 +35,4 @@ end
 # Remove greeting
 function fish_greeting
 end
+status --is-interactive; and source (rbenv init -|psub)
