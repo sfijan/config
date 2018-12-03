@@ -174,7 +174,7 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 ##### STARTUP #####
 # Compton
-exec_always --no-startup-id compton --config ~/.config/compton.conf -b
+#exec_always --no-startup-id compton --config ~/.config/compton.conf -b
 
 # Keyboard remaps
 #exec ~/Documents/programs/xkbmap.startup.sh
@@ -187,15 +187,15 @@ exec_always ~/.fehbg
 #exec_always wal -i $wallpaper
 
 # Redshift
-exec_always redshift
+#exec_always redshift
 
-# i3lock
-bindsym $mod+x exec i3lock -i $wallpaper
+# Lockscreen
+bindsym $mod+x exec --no-startup-id betterlockscreen --lock
 
 # Pulse Audio controls
 bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle && pkill -RTMIN+1 i3blocks # mute sound
-bindsym XF86AudioRaiseVolume exec amixer -q sset Master 3%+ && pkill -RTMIN+1 i3blocks #increase sound volume
-bindsym XF86AudioLowerVolume exec amixer -q sset Master 3%- && pkill -RTMIN+1 i3blocks #decrease sound volume
+bindsym XF86AudioRaiseVolume exec amixer -q sset Master 2%+ && pkill -RTMIN+1 i3blocks #increase sound volume
+bindsym XF86AudioLowerVolume exec amixer -q sset Master 2%- && pkill -RTMIN+1 i3blocks #decrease sound volume
 
 # Media controls for cmus
 bindsym XF86AudioPlay exec --no-startup-id cmus-remote -C player-pause
