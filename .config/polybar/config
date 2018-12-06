@@ -17,8 +17,8 @@
 ;==========================================================
 
 [colors]
-;background = ${xrdb:color0:#222}
-background = #222
+background = ${xrdb:color0:#222}
+;background = #222
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
@@ -28,12 +28,11 @@ secondary = #e60053
 alert = #bd2c40
 
 [bar/botbar]
-;monitor = ${env:MONITOR:HDMI-1}
 bottom = false
 width = 100%
 height = 27
-#offset-x = 5%
-#offset-y = 1%
+offset-x = 50
+offset-y = 50
 radius = 6.0
 fixed-center = false
 
@@ -53,9 +52,9 @@ module-margin-left = 1
 module-margin-right = 2
 
 font-0 = fixed:pixelsize=10;1
-font-1 = Font Awesome 5 Free:pixelsize=10;3
-font-2 = Font Awesome 5 Free Solid:pixelsize=10;3
-font-3 = Font Awesome 5 Brands:pixelsize=10;3
+font-1 = Font Awesome 5 Free:pixelsize=11;1
+;font-2 = Font Awesome 5 Free Solid:pixelsize=10;3
+;font-3 = Font Awesome 5 Brands:pixelsize=10;3
 
 
 modules-left = i3
@@ -138,6 +137,7 @@ time = %H:%M
 time-alt = %H:%M:%S
 
 format-prefix = 
+format-prefix-font = 2
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
 
@@ -169,62 +169,28 @@ full-at = 99
 battery = BAT1
 adapter = ACAD
 poll-interval = 5
-time-format = %H:%M
 
-; Available tags:
-;   <label-charging> (default)
-;   <bar-capacity>
-;   <ramp-capacity>
-;   <animation-charging>
-format-charging = <animation-charging> <label-charging>
 
-; Available tags:
-;   <label-discharging> (default)
-;   <bar-capacity>
-;   <ramp-capacity>
-;   <animation-discharging>
-format-discharging = <ramp-capacity> <label-discharging>
+format-charging = <label-charging>
+format-discharging = <label-discharging>
+format-full = <label-full>
 
-; Available tags:
-;   <label-full> (default)
-;   <bar-capacity>
-;   <ramp-capacity>
-;format-full = <ramp-capacity> <label-full>
-
-; Available tokens:
-;   %percentage% (default)
-;   %time%
-;   %consumption% (shows current charge rate in watts)
 label-charging = Charging %percentage%%
-
-; Available tokens:
-;   %percentage% (default)
-;   %time%
-;   %consumption% (shows current discharge rate in watts)
 label-discharging = Discharging %percentage%%
-
-; Available tokens:
-;   %percentage% (default)
 label-full = Fully charged
-
-; Only applies if <ramp-capacity> is used
-ramp-capacity-0 = 1
-ramp-capacity-1 = 2
-ramp-capacity-2 = 3
-ramp-capacity-3 = 4
-ramp-capacity-4 = 5
-
-; Only applies if <bar-capacity> is used
-bar-capacity-width = 10
-
-; Only applies if <animation-charging> is used
-animation-charging-0 = 1
-animation-charging-1 = 2
-animation-charging-2 = 3
-animation-charging-3 = 4
-animation-charging-4 = 5
-; Framerate in milliseconds
-animation-charging-framerate = 750
+;
+;ramp-capacity-0 = 
+;ramp-capacity-1 = 
+;ramp-capacity-2 = 
+;ramp-capacity-3 = 
+;ramp-capacity-4 = 
+;
+;animation-charging-0 = 
+;animation-charging-1 = 
+;animation-charging-2 = 
+;animation-charging-3 = 
+;animation-charging-4 = 
+;animation-charging-framerate = 750
 
 
 ; vim:ft=dosini
