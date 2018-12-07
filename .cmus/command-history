@@ -1,0 +1,7 @@
+bind -f common ! push shell
+bind -f common S shell ~/.cmus/randomimze.sh
+bind -f common 5 view browser/q
+bind -f common 4 view queue
+bind -f common 0 view settings
+add Music/
+add cmus

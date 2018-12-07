@@ -1,0 +1,3 @@
+bind -f common S shell ~/.cmus/randomize.sh
+bind -f common E shell ~/.cmus/tag.sh
+
