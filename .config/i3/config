@@ -157,10 +157,10 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id libinput-gestures-setup restart
 
 # Keyboard remaps
-exec_always xmodmap ~/.xres/Xmodmap
+exec_always --no-startup-id xmodmap ~/.xres/Xmodmap
 
 # wallpaper
-exec_always ~/.fehbg
+exec_always --no-startup-id ~/.fehbg
 
 # Lockscreen
 bindsym $mod+x exec --no-startup-id betterlockscreen --lock

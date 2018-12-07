@@ -25,8 +25,8 @@ URxvt.scrollBar:    false
 
 
 !PLUGINS:
-URxvt.perl-ext-common:	resize-font,vtwheel
+!URxvt.perl-ext-common:	resize-font,vtwheel
 
-URxvt.keysym.C-equal:	resize-font:bigger
-URxvt.keysym.C-minus:	resize-font:smaller
-URxvt.keysym.C-plus:	resize-font:reset
+!URxvt.keysym.C-equal:	resize-font:bigger
+!URxvt.keysym.C-minus:	resize-font:smaller
+!URxvt.keysym.C-plus:	resize-font:reset
