@@ -80,9 +80,7 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # woekspaces
-#set $workspace1 "1:    "
 set $workspace1 " 1 "
-#set $workspace2 "2:    "
 set $workspace2 " 2 "
 set $workspace3 " 3 "
 set $workspace4 " 4 "
@@ -90,9 +88,7 @@ set $workspace5 " 5 "
 set $workspace6 " 6 "
 set $workspace7 " 7 "
 set $workspace8 " 8 "
-#set $workspace9 "9:    "
 set $workspace9 " 9 "
-#set $workspace10 "10:    "
 set $workspace10 " 10 "
 
 # switch to workspace
@@ -121,33 +117,23 @@ bindsym $mod+Shift+0 move container to workspace $workspace10
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
-# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
-# exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 
 
 
 ##### MODES #####
 mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
-
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
         bindsym h resize shrink width 2 px or 2 ppt
         bindsym j resize grow height 2 px or 2 ppt
         bindsym k resize shrink height 2 px or 2 ppt
         bindsym l resize grow width 2 px or 2 ppt
 
-        # same bindings, but for the arrow keys
         bindsym Left resize shrink width 2 px or 2 ppt
         bindsym Down resize grow height 2 px or 2 ppt
         bindsym Up resize shrink height 2 px or 2 ppt
         bindsym Right resize grow width 2 px or 2 ppt
 
-        # back to normal: Enter or Escape
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
@@ -157,15 +143,6 @@ bindsym $mod+r mode "resize"
 
 
 ##### BAR #####
-# Start i3bar to display a workspace bar (plus the system information i3status
-# finds out, if available)
-#bar {
-#    status_command i3blocks -c ~/.config/i3/i3blocks.conf
-#    strip_workspace_numbers yes
-#    colors{
-#	background	    #364948
-#    }
-#}
 
 # Polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
@@ -176,18 +153,14 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 # Compton
 #exec_always --no-startup-id compton --config ~/.config/compton.conf -b
 
+# Gestures
+exec_always --no-startup-id libinput-gestures-setup restart
+
 # Keyboard remaps
-#exec ~/Documents/programs/xkbmap.startup.sh
 exec_always xmodmap ~/.xres/Xmodmap
 
 # wallpaper
 exec_always ~/.fehbg
-#set $wallpaper ~/Pictures/wallpapers/wall3.png
-#exec_always feh --bg-scale $wallpaper
-#exec_always wal -i $wallpaper
-
-# Redshift
-#exec_always redshift
 
 # Lockscreen
 bindsym $mod+x exec --no-startup-id betterlockscreen --lock
