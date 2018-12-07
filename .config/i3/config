@@ -153,6 +153,9 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 # Compton
 #exec_always --no-startup-id compton --config ~/.config/compton.conf -b
 
+# nm-applet
+exec_always --no-startup-id nm-applet
+
 # Gestures
 exec_always --no-startup-id libinput-gestures-setup restart
 
