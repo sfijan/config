@@ -1,35 +1,3 @@
-/home/sven/Music/adelitas way/adelitas way 2009/All falls down.mp3
-/home/sven/Music/adelitas way/adelitas way 2009/Closer to you.mp3
-/home/sven/Music/adelitas way/adelitas way 2009/Just a little bit.mp3
-/home/sven/Music/adelitas way/adelitas way 2009/My derailment.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Alive.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Criticize.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Good enough.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Hurt.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/I can tell.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/I wanna be.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Move.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Sick.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/Somebody wishes you were here.mp3
-/home/sven/Music/adelitas way/home school valedictorian 2011/The Collapse.mp3
-/home/sven/Music/adelitas way/notorious 2017/Notorious.mp3
-/home/sven/Music/adelitas way/notorious 2017/Ready for War.mp3
-/home/sven/Music/adelitas way/notorious 2017/This Goes Out to You.mp3
-/home/sven/Music/adelitas way/notorious 2017/Vibes.mp3
-/home/sven/Music/adelitas way/notorious 2017/You're not the Holy One.mp3
-/home/sven/Music/adelitas way/stuck 2014/Blur.mp3
-/home/sven/Music/adelitas way/stuck 2014/Change the World.mp3
-/home/sven/Music/adelitas way/stuck 2014/Different Kind of Animal.mp3
-/home/sven/Music/adelitas way/stuck 2014/Dog on a Leash.mp3
-/home/sven/Music/adelitas way/stuck 2014/Drive.mp3
-/home/sven/Music/adelitas way/stuck 2014/Keep Me Waiting.mp3
-/home/sven/Music/adelitas way/stuck 2014/Know it All.mp3
-/home/sven/Music/adelitas way/stuck 2014/Not Thinking About me.mp3
-/home/sven/Music/adelitas way/stuck 2014/Someone Said you're Well.mp3
-/home/sven/Music/adelitas way/stuck 2014/Somethin More.mp3
-/home/sven/Music/adelitas way/stuck 2014/Stuck.mp3
-/home/sven/Music/adelitas way/stuck 2014/Undivided.mp3
-/home/sven/Music/adelitas way/stuck 2014/We Came.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/01. Away From The Sun.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/02. Changes.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/03. Dangerous Game.mp3
