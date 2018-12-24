@@ -1,7 +1,17 @@
+bind -f common E shell ~/.cmus/tag.sh
+bind -f common D win-remove
+bind -f common S shell ~/.cmus/randomize.sh
+clear
+add Music/
+bind -f common - vol -5%
+bind -f common + vol +5%
+bind -f common left player-prev
+bind -f common right player-next
+live-filter ibrary
+filter iles already tracked by Git are not affected; see the NOTES below for details.
 bind -f common ! push shell
 bind -f common S shell ~/.cmus/randomimze.sh
 bind -f common 5 view browser/q
 bind -f common 4 view queue
 bind -f common 0 view settings
-add Music/
 add cmus
