@@ -35,4 +35,16 @@ end
 # Remove greeting
 function fish_greeting
 end
+
+# Ruby
 status --is-interactive; and source (rbenv init -|psub)
+
+# Set default scrot location to ~/Pictures/screenshots/
+function screenshot
+    scrot '%d-%m-%Y_%H:%M.png' -e 'mv --backup=t $f ~/Pictures/screenshots/' $argv
+end
+
+# set default xboxdrv config
+#function xboxdrv
+#    xboxdrv -c ~/.config/xboxdrv/config $argv
+#end
