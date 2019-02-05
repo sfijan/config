@@ -18,3 +18,9 @@ set softtabstop=4
 
 set autoindent autoindent
 "set autoindent cindent
+
+
+"vim plug
+call plug#begin()
+Plug 'jiangmiao/auto-pairs'
+call plug#end()
