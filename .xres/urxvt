@@ -25,8 +25,14 @@ URxvt.scrollBar:    false
 
 
 !PLUGINS:
-!URxvt.perl-ext-common:	resize-font,vtwheel
+URxvt.perl-ext-common:	resize-font,vtwheel,matcher
 
-!URxvt.keysym.C-equal:	resize-font:bigger
-!URxvt.keysym.C-minus:	resize-font:smaller
-!URxvt.keysym.C-plus:	resize-font:reset
+! resize font
+URxvt.keysym.C-equal:	resize-font:bigger
+URxvt.keysym.C-minus:	resize-font:smaller
+URxvt.keysym.C-plus:	resize-font:reset
+
+! matcher
+! to set the default web browser to firefox run "xdg-settings set default-web-browser firefox.desktop"
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
