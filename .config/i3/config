@@ -23,7 +23,8 @@ bindsym $mod+b exec "i3-msg gaps outer currnet set 10"
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec urxvt	#i3-sensible-terminal
+bindsym $mod+Return exec urxvt
+bindsym $mod+Shift+Return exec urxvt -name "floating_terminal"
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -182,3 +183,8 @@ bindsym XF86AudioPrev exec --no-startup-id cmus-remote -C player-prev
 bindsym XF86MonBrightnessUp exec xbacklight -inc 10 # increase screen brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # decrease screen brightness
 bindsym $mod+n exec xbacklight -set 1 # set night light
+
+# Set floating windows
+for_window [ title="floating_terminal" ] floating enable
+for_window [ title="Library" ] floating enable
+
