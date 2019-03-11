@@ -173,9 +173,9 @@ exec_always --no-startup-id ~/.fehbg
 bindsym $mod+x exec --no-startup-id betterlockscreen --lock
 
 # Pulse Audio controls
-bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle && pkill -RTMIN+1 i3blocks # mute sound
-bindsym XF86AudioRaiseVolume exec amixer -q sset Master 2%+ && pkill -RTMIN+1 i3blocks #increase sound volume
-bindsym XF86AudioLowerVolume exec amixer -q sset Master 2%- && pkill -RTMIN+1 i3blocks #decrease sound volume
+bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle #&& pkill -RTMIN+1 i3blocks # mute sound
+bindsym XF86AudioRaiseVolume exec amixer -q sset Master 2%+ #&& pkill -RTMIN+1 i3blocks #increase sound volume
+bindsym XF86AudioLowerVolume exec amixer -q sset Master 2%- #&& pkill -RTMIN+1 i3blocks #decrease sound volume
 
 # Media controls for cmus
 bindsym XF86AudioPlay exec --no-startup-id cmus-remote -C player-pause
