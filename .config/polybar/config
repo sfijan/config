@@ -27,7 +27,7 @@ primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
 
-[bar/botbar]
+[bar/topbar]
 bottom = false
 width = 100%
 height = 27
@@ -51,10 +51,10 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = fixed:pixelsize=10;1
-font-1 = Font Awesome 5 Free:pixelsize=11;1
-;font-2 = Font Awesome 5 Free Solid:pixelsize=10;3
-;font-3 = Font Awesome 5 Brands:pixelsize=10;3
+font-0 = fixed:			pixelsize=11;1
+font-1 = Font Awesome 5 Free:	pixelsize=11;1
+font-2 = Font Awesome 5 Brands:	pixelsize=11;1
+;font-3 = Wuncon Siji:		pixelsize=17	antialias=true;1
 
 
 modules-left = i3
@@ -137,7 +137,6 @@ time = %H:%M
 time-alt = %H:%M:%S
 
 format-prefix = 
-format-prefix-font = 2
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
 
@@ -159,6 +158,7 @@ exec = amixer get Master | grep Left: | cut -d '[' -f 2 | cut -d '%' -f 1
 tail = true
 interval = 0.1
 
+;format-prefix = 
 format-prefix = "vol "
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
