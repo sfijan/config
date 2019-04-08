@@ -6,7 +6,10 @@
 "   ╚═══╝  ╚═╝╚═╝     ╚═╝
 
 
-set number
+set number linebreak scrolloff=5
+
+"search
+set ignorecase smartcase
 
 noremap J 5j
 noremap K 5k
@@ -22,12 +25,23 @@ set autoindent autoindent
 set noswapfile
 
 
+let g:python3_host_prog = '/usr/bin/python3'
+let g:python_host_prog = '/usr/bin/python2'
+
 "vim plug
 call plug#begin()
 Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 Plug 'terryma/vim-multiple-cursors'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 call plug#end()
 
 "auto pairs
 au FileType html let b:AutoPairs = AutoPairsDefine({'<' : '>'})
+
+"deoplete
+let g:deoplete#enable_at_startup = 1
+inoremap <expr><tab> pumvisible() ? "\<c-n>" : "\<tab>"
