@@ -81,16 +81,16 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # woekspaces
-set $workspace1 " 1 "
-set $workspace2 " 2 "
-set $workspace3 " 3 "
-set $workspace4 " 4 "
-set $workspace5 " 5 "
-set $workspace6 " 6 "
-set $workspace7 " 7 "
-set $workspace8 " 8 "
-set $workspace9 " 9 "
-set $workspace10 " 10 "
+set $workspace1 "1"
+set $workspace2 "2"
+set $workspace3 "3"
+set $workspace4 "4"
+set $workspace5 "5"
+set $workspace6 "6"
+set $workspace7 "7"
+set $workspace8 "8"
+set $workspace9 "9"
+set $workspace10 "10"
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
@@ -141,7 +141,7 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-
+#TODO gaps mode
 
 ##### BAR #####
 
@@ -155,7 +155,7 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 #exec_always --no-startup-id compton --config ~/.config/compton.conf -b
 
 # redshift
-exec_always --no-startup-id redshift
+#exec_always --no-startup-id redshift
 
 # nm-applet
 exec_always --no-startup-id nm-applet
@@ -183,8 +183,8 @@ bindsym XF86AudioNext exec --no-startup-id cmus-remote -C player-next
 bindsym XF86AudioPrev exec --no-startup-id cmus-remote -C player-prev
 
 # Screen brightness controll
-bindsym XF86MonBrightnessUp exec xbacklight -inc 10 # increase screen brightness
-bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # decrease screen brightness
+bindsym XF86MonBrightnessUp exec xbacklight -inc 5 # increase screen brightness
+bindsym XF86MonBrightnessDown exec xbacklight -dec 5 # decrease screen brightness
 bindsym $mod+n exec xbacklight -set 1 # set night light
 
 # Set floating windows
