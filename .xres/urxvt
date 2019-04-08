@@ -17,7 +17,7 @@ urxvt*shading: 30
 
 ! font
 !URxvt.letterSpace:	-3
-URxvt.font:	    xft:DejaVuSansMono:size=12
+URxvt.font:	    xft:DejaVu Sans Mono:size=12
 !URxvt.font:	    xft:monaco:size=11
 
 ! scrollbar
@@ -28,9 +28,9 @@ URxvt.scrollBar:    false
 URxvt.perl-ext-common:	resize-font,vtwheel,matcher
 
 ! resize font
-URxvt.keysym.C-equal:	resize-font:bigger
-URxvt.keysym.C-minus:	resize-font:smaller
-URxvt.keysym.C-plus:	resize-font:reset
+URxvt.keysym.A-equal:	resize-font:bigger
+URxvt.keysym.A-minus:	resize-font:smaller
+URxvt.keysym.A-plus:	resize-font:reset
 
 ! matcher
 ! to set the default web browser to firefox run "xdg-settings set default-web-browser firefox.desktop"
