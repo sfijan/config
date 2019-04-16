@@ -1,214 +1,68 @@
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/01. Away From The Sun.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/02. Changes.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/03. Dangerous Game.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/04. Going Down In Flames.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/05. Here Without You.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/06. I Feel You.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/07. Running Out Of Days.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/08. Sarah Yellin'.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/09. The Road I'm On.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/10. This Time.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/11. Ticket To Heaven.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Away From The Sun 2002/12. When I'm Gone.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/01 Here Without You (Acoustic).mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/02 Be Like That.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/03 Behind Those Eyes.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/04 Be Somebody.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/05 Life Of My Own.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/06 Down Poison.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/07 Away From The Sun (Acoustic).mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/08 Here By Me.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/09 It's Not Me.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/10 Landing In London.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/11 When I'm Gone.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/12 The Real Life.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/13 Changes.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/14 I Feel You.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/15 Let Me Go.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/16 Running Out Of Days.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/17 Father's Son.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/18 Ticket To Heaven.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/19 My World.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Ballads-2005/20 The Road I'm On.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/01 Right Where I Belong.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/02 It's Not Me.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/03 Let Me Go.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/04 Be Somebody.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/05 Landing In London.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/06 The Real Life.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/07 Behind Those Eyes.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/08 Never Will I Break.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/09 Father's Son.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/10 Live For Today.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/11 My World.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Seventeen Days 2005/12 Here By Me.mp3
 /home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/01. Kryptonite.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/02. Loser.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/03. Duck And Run.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/04. Not Enough.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/05. Be Llke That.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/06. Llfe Of My Own.mp3
 /home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/07. Better Life.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/08. Down Poison.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/09. By My Side.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/10. Smack.mp3
-/home/sven/Music/3 doors down/3 Doors Down - The Better Life 2007/11. So I Need You.mp3
 /home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/01. Citizen Soldier.mp3
 /home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/02. Feet In The Water.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/03. Give It To Me.mp3
 /home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/04. It's Not My Time.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/05. It's The Only One You've Got.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/06. Let Me Be Myself.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/07. Pages.mp3
 /home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/08. Runaway.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/09. She Don't Want The World.mp3
 /home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/10. These Days.mp3
 /home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/11. Train.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/12. When It's Over.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/13. Who Are You.mp3
-/home/sven/Music/3 doors down/3 Doors Down - 3 Doors Down 2008/14. Your Arms Feel Like Home.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Its Not My Time 2008 (Single)/01 It's Not My Time.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Its Not My Time 2008 (Single)/02 Who Are You.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Its Not My Time 2008 (Single)/03 It's Not My Time (Acoustic Version).mp3
 /home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/01 - Time Of My Life.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/02 - When You're Young.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/03 - Round And Round.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/04 - Heaven.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/05 - Race For The Sun.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/06 - Back To Me.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/07 - Every Time You Go.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/08 - What's Left.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/09 - On The Run.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/10 - She Is Love.mp3
 /home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/11 - My Way.mp3
-/home/sven/Music/3 doors down/3 Doors Down - Time Of My Life 2011/12 - Believer.mp3
-/home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/01 -Heatseeker.mp3
 /home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/01 -Dirty Deeds Done Dirt Cheap.mp3
 /home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/02 -Love At First Feel.mp3
 /home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/03 -Big Balls.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/04 -Rocker.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/05 -Problem Child.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/06 -There's Gonna Be Some Rockin'.mp3
 /home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/07 -Ain't No Fun.mp3
 /home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/08 -Ride On.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - Dirty Deeds Done Dirt Cheap/09 -Squealer.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - High Voltage/06 -Can I Sit Next To You Girl.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - High Voltage/08 -She's Got Balls.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - High Voltage/02 -Rock 'n' Roll Singer.mp3
-/home/sven/Music/ac dc/AcDc - 1976 - High Voltage/03 -The Jack.mp3
 /home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/01 -Highway To Hell.mp3
 /home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/04 -Touch Too Much.mp3
-/home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/05 -Beating Around The Bush.mp3
 /home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/07 -Get It Hot.mp3
 /home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/09 -Love Hungry Man.mp3
 /home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/08 -If You Want Blood.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/07 -You Shook Me All Night Long.mp3
 /home/sven/Music/ac dc/AcDc - 1986 - Who Made Who/01 -Who Made Who.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/03 -Moneytalks.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/04 -The Razors Edge.mp3
-/home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/10 -Brain Shake.mp3
-/home/sven/Music/ac dc/AcDc - 1984 - '74 Jailbreak/05 -Baby, Please Don't Go.mp3
 /home/sven/Music/ac dc/AcDc - 1984 - '74 Jailbreak/02 -You Ain't Got A Hold On Me.mp3
-/home/sven/Music/ac dc/AcDc - 1984 - '74 Jailbreak/03 -Show Business.mp3
-/home/sven/Music/ac dc/AcDc - 1997 - Bonfire/03 - Volts/09 -It's A Long Way To The Top.mp3
-/home/sven/Music/ac dc/AcDc - 1997 - Bonfire/03 - Volts/08 -School Days.mp3
 /home/sven/Music/ac dc/AcDc - 1984 - '74 Jailbreak/01 -Jailbreak.mp3
-/home/sven/Music/ac dc/AcDc - 1977 - Let There Be Rock/01 -Go Down.mp3
 /home/sven/Music/ac dc/AcDc - 1977 - Let There Be Rock/02 -Dog Eat Dog.mp3
-/home/sven/Music/ac dc/AcDc - 1977 - Let There Be Rock/03 -Let There Be Rock.mp3
-/home/sven/Music/ac dc/AcDc - 1977 - Let There Be Rock/04 -Bad Boy Boogie.mp3
-/home/sven/Music/ac dc/AcDc - 1977 - Let There Be Rock/06 -Overdose.mp3
 /home/sven/Music/ac dc/AcDc - 1977 - Let There Be Rock/07 -Hell Ain't A Bad Place To Be.mp3
-/home/sven/Music/ac dc/AcDc - 1978 - Powerage/01 -Rock 'n' Roll Damnation.mp3
-/home/sven/Music/ac dc/AcDc - 1978 - Powerage/02 -Down Payment Blues.mp3
 /home/sven/Music/ac dc/AcDc - 1978 - Powerage/03 -Gimme A Bullet.mp3
-/home/sven/Music/ac dc/AcDc - 1978 - Powerage/05 -Sin City.mp3
-/home/sven/Music/ac dc/AcDc - 1978 - Powerage/06 -What's Next To The Moon.mp3
-/home/sven/Music/ac dc/AcDc - 1978 - Powerage/07 -Gone Shootin'.mp3
 /home/sven/Music/ac dc/AcDc - 1978 - Powerage/08 -Up To My Neck In You.mp3
-/home/sven/Music/ac dc/AcDc - 1979 - Highway To Hell/10 -Night Prowler.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/01 -Hells Bells.mp3
-/home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/03 -What Do You Do For Money Honey.mp3
-/home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/04 -Given The Dog A Bone.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/05 -Let Me Put My Love Into You.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/08 -Have A Drink On Me.mp3
-/home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/09 -Shake A Leg.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/10 -Rock And Roll Ain't Noise Pollution.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/01 -Rising Power.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/02 -This House Is On Fire.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/03 -Flick Of The Switch.mp3
-/home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/04 -Nervous Shakedown.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/05 -Landslide.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/06 -Guns For Hire.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/07 -Deep In The Hole.mp3
 /home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/08 -Bedlam In Belgium.mp3
-/home/sven/Music/ac dc/AcDc - 1983 - Flick Of The Switch/09 -Badlands.mp3
-/home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/01 -Fly On The Wall.mp3
-/home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/02 -Shake Your Foundations.mp3
-/home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/03 -First Blood.mp3
-/home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/04 -Danger.mp3
-/home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/06 -Playing With Girls.mp3
 /home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/07 -Stand Up.mp3
 /home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/08 -Hell Or High Water.mp3
 /home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/09 -Back In Business.mp3
-/home/sven/Music/ac dc/AcDc - 1985 - Fly On The Wall/10 -Send For The Man.mp3
-/home/sven/Music/ac dc/AcDc - 1986 - Who Made Who/03 -D.T..mp3
 /home/sven/Music/ac dc/AcDc - 1986 - Who Made Who/04 -Sink The Pink.mp3
-/home/sven/Music/ac dc/AcDc - 1986 - Who Made Who/08 -Chase The Ace.mp3
-/home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/02 -That's The Way I Wanna Rock 'n' Roll.mp3
-/home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/03 -Meanstreak.mp3
 /home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/04 -Go Zone.mp3
 /home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/05 -Kissin' Dynamite.mp3
-/home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/06 -Nick Of Time.mp3
 /home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/07 -Some Sin For Nuthin'.mp3
-/home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/08 -Ruff Stuff.mp3
 /home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/09 -Two's Up.mp3
-/home/sven/Music/ac dc/AcDc - 1988 - Blow Up Your Video/10 -This Means War.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/05 -Mistress For Christmas.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/06 -Rock Your Heart Out.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/07 -Are You Ready.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/08 -Got You By The Balls.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/09 -Shot Of Love.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/10 -Lets Make It.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/11 -Goodbye & Good Riddance To Bad Luck.mp3
-/home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/12 -If You Dare.mp3
-/home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/01 -For Those About To Rock.mp3
-/home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/02 -Put The Finger On You.mp3
-/home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/03 -Let's Get It Up.mp3
-/home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/04 -Inject The Venom.mp3
 /home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/05 -Snowballed.mp3
 /home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/06 -Evil Walks.mp3
 /home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/07 -C.O.D..mp3
-/home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/08 -Breaking The Rules.mp3
-/home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/09 -Night Of The Long Knives.mp3
 /home/sven/Music/ac dc/AcDc - 1981 - For Those About To Rock We Salute You/10 -Spellbound.mp3
 /home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/01 -Thunderstruck.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/02 -Shoot To Thrill.mp3
 /home/sven/Music/ac dc/AcDc - 1990 - The Razors Edge/02 -Fire Your Guns.mp3
 /home/sven/Music/ac dc/AcDc - 1997 - Bonfire/04 - Back In Black/06 -Back In Black.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/01 -Stiff Upper Lip.mp3
-/home/sven/Music/ac dc/AcDc - 1984 - '74 Jailbreak/04 -Soul Stripper.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/01 -Hard As A Rock.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/02 -Cover You In Oil.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/03 -The Furor.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/04 -Boogie Man.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/05 -The Honey Roll.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/06 -Burnin' Alive.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/07 -Hail Caesar.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/08 -Love Bomb.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/10 -Whiskey On The Rocks.mp3
-/home/sven/Music/ac dc/AcDc - 1995 - Ballbreaker/11 -Ballbreaker.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/02 -Meltdown.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/03 -House Of Jazz.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/04 -Hold Me Back.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/05 -Safe In New York City.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/06 -Can`T Stand Still.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/07 -Can`T Stop Rock`N`Roll.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/08 -Satellite Blues.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/09 -Damned.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/10 -Come And Get It.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/11 -All Screwed Up.mp3
-/home/sven/Music/ac dc/AcDc - 2000 - Stiff Upper Lip/12 -Give It Up.mp3
 /home/sven/Music/adelitas way/adelitas way 2009/Dirty little thing.mp3
 /home/sven/Music/adelitas way/adelitas way 2009/Hate love.mp3
 /home/sven/Music/adelitas way/adelitas way 2009/Invincible.mp3
@@ -227,76 +81,112 @@
 /home/sven/Music/adelitas way/getaway 2016/09 Sometimes You're Meant to Get Use.mp3
 /home/sven/Music/adelitas way/getaway 2016/10 Shame.mp3
 /home/sven/Music/adelitas way/getaway 2016/11 Deserve This.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/01 - Wish I May.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/02 - Medicate.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/03 - Polyamorous.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/04 - Skin.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/05 - Natural Life.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/06 - Next To Nothing.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/08 - Home.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/09 - Phase.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/10 - No Games.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/12 - Shallow Bay.mp3
-/home/sven/Music/breaking benjamin/[2002] Saturate/13 - Forever (Hidden Bonus Track).mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/01 - So Cold.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/03 - Follow.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/04 - Firefly.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/05 - Break My Fall.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/06 - Forget It.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/07 - Sooner Or Later.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/08 - Breakdown.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/09 - Away.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/10 - Believe.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/11 - Rain.mp3
-/home/sven/Music/breaking benjamin/[2004] We Are Not Alone (Japanese Limited Edition)/12 - Ordinary Man (Bonus Track).mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/02 - The Diary Of Jane.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/03 - Breath.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/04 - You.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/05 - Evil Angel.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/06 - Until The End.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/07 - Dance With The Devil.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/08 - Topless.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/09 - Here We Are.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/10 - Unknown Soldier.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/11 - Had Enough.mp3
-/home/sven/Music/breaking benjamin/[2006] Phobia (Asian Edition)/12 - You Fight Me.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/01 - Fade Away.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/02 - I Will Not Bow.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/03 - Crawl.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/04 - Give Me A Sign.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/05 - Hopeless.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/06 - What Lies Beneath.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/07 - Anthem Of The Angels.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/08 - Lights Out.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/09 - Dear Agony.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/10 - Into The Nothing.mp3
-/home/sven/Music/breaking benjamin/[2010] Dear Agony (Japanese Edition)/11 - Without You.mp3
-/home/sven/Music/breaking benjamin/[2011] Shallow Bay The Best Of Breaking Benjamin (Deluxe Edition)/CD 2/03 - Who Wants To Live Forever (Queen Cover, New Mix).mp3
-/home/sven/Music/breaking benjamin/[2011] Shallow Bay The Best Of Breaking Benjamin (Deluxe Edition)/CD 2/05 - Better Days (Previously Unreleased).mp3
-/home/sven/Music/breaking benjamin/[2011] Shallow Bay The Best Of Breaking Benjamin (Deluxe Edition)/CD 2/07 - Lie To Me (Previously Unreleased).mp3
-/home/sven/Music/breaking benjamin/[2011] Shallow Bay The Best Of Breaking Benjamin (Deluxe Edition)/CD 2/08 - Lady Bug (Japanese B-Side).mp3
-/home/sven/Music/breaking benjamin/[2011] Shallow Bay The Best Of Breaking Benjamin (Deluxe Edition)/CD 1/13 - Blow Me Away (Featuring Valora).mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/02. Breaking Benjamin - Failure.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/03. Breaking Benjamin - Angels Fall.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/04. Breaking Benjamin - Breaking The Silence.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/05. Breaking Benjamin - Hollow.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/06. Breaking Benjamin - Close To Heaven.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/07. Breaking Benjamin - Bury Me Alive.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/08. Breaking Benjamin - Never Again.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/09. Breaking Benjamin - The Great Divide.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/10. Breaking Benjamin - Ashes Of Eden.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/11. Breaking Benjamin - Defeated.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Dark Before Dawn {2015}/12. Breaking Benjamin - Dawn.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/02. Feed The Wolf.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/03. Red Cold River.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/04. Tourniquet.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/05. Psycho.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/06. The Dark Of You (Feat. Derek Hough).mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/07. Down.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/08. Torn In Two.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/09. Blood.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/10. Save Yourself.mp3
-/home/sven/Music/breaking benjamin/Breaking Benjamin - Ember (2018) [CD 320]/11. Close Your Eyes.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/01 - This Is a Call.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/02 - I'll Stick Around.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/03 - Big Me.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/04 - Alone+Easy Target.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/05 - Good Grief.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/06 - Floaty.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/07 - Weenie Beenie.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/08 - Oh, George.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/09 - For All the Cows.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/10 - X-Static.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/11 - Wattershed.mp3
+/home/sven/Music/foo fighters/1995 Foo Fighters/12 - Exhausted.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/01 - Doll.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/02 - Monkey Wrench.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/03 - Hey, Johnny Park!.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/04 - My Poor Brain.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/05 - Wind Up.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/06 - Up in Arms.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/07 - My Hero.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/08 - See You.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/09 - Enough Space.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/10 - February Stars.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/11 - Everlong.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/12 - Walking After You.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/13 - New Way Home.mp3
+/home/sven/Music/foo fighters/1997 The Colour And The Shape/14 - Dear Lover (Bonus Track).mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/01 - Stacked Actors.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/02 - Breakout.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/03 - Learn to Fly.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/04 - Gimme Stitches.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/05 - Generator.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/06 - Aurora.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/07 - Live-in Skin.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/08 - Next Year.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/09 - Headwires.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/10 - Ain't It the Life.mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/11 - M.I.A..mp3
+/home/sven/Music/foo fighters/1999 There Is Nothing Left To Lose/12 - Fraternity.mp3
+/home/sven/Music/foo fighters/2002 One By One/01 - All My Life.mp3
+/home/sven/Music/foo fighters/2002 One By One/02 - Low.mp3
+/home/sven/Music/foo fighters/2002 One By One/03 - Have It All.mp3
+/home/sven/Music/foo fighters/2002 One By One/04 - Times Like These.mp3
+/home/sven/Music/foo fighters/2002 One By One/05 - Disenchanted Lullaby.mp3
+/home/sven/Music/foo fighters/2002 One By One/06 - Tired of You.mp3
+/home/sven/Music/foo fighters/2002 One By One/07 - Halo.mp3
+/home/sven/Music/foo fighters/2002 One By One/08 - Lonely as You.mp3
+/home/sven/Music/foo fighters/2002 One By One/09 - Overdrive.mp3
+/home/sven/Music/foo fighters/2002 One By One/10 - Burn Away.mp3
+/home/sven/Music/foo fighters/2002 One By One/11 - Come Back.mp3
+/home/sven/Music/foo fighters/2002 One By One/12 - Danny Says (Bonus Track).mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/01 - In Your Honor.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/02 - No Way Back.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/03 - Best of You.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/04 - DOA.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/05 - Hell.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/06 - The Last Song.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/07 - Free Me.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/08 - Resolve.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/09 - The Deepest Blues Are Black.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/10 - End Over End.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/11 - The Sign (Bonus Track).mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/01 - Still.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/02 - What if I Do.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/03 - Miracle.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/04 - Another Round.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/05 - Friend of a Friend.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/06 - Over and Out.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/07 - On the Mend.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/08 - Virginia Moon.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/09 - Cold Day in the Sun.mp3
+/home/sven/Music/foo fighters/2005 In Your Honor 2CD/10 - Razor.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/01 - The Pretender.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/02 - Let It Die.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/03 - EraseReplace.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/04 - Long Road to Ruin.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/05 - Come Alive.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/06 - Stranger Things Have Happened.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/07 - Cheer Up, Boys (Your Make Up Is Running).mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/08 - Summer's End.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/09 - Ballad of the Beaconsfield Miners.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/10 - Statues.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/11 - But, Honestly.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/12 - Home.mp3
+/home/sven/Music/foo fighters/2007 Echoes, Silence, Patience & Grace/13 - Once & for All (Demo).mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/01 - Bridge Burning.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/02 - Rope.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/03 - Dear Rosemary.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/04 - White Limo.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/05 - Arlandria.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/06 - These Days.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/07 - Back & Forth.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/08 - A Matter of Time.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/09 - Miss the Misery.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/10 - I Should Have Known.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/11 - Walk.mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/12 - Better Off (Bonus Track).mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/13 - Rope (Deadmaus5 Mix).mp3
+/home/sven/Music/foo fighters/2011  Wasting Light/14 - Better Off.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/01. Something From Nothing.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/02. The Feast and the Famine.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/03. Congregation.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/04. What Did I DoGod as My Witness.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/05. Outside.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/06. In the Clear.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/07. Subterranean.mp3
+/home/sven/Music/foo fighters/2014 Sonic Highways/08. I Am a River.mp3
 /home/sven/Music/godsmack/when legends rise/01 When Legends Rise.mp3
 /home/sven/Music/godsmack/when legends rise/02 Bulletproof.mp3
 /home/sven/Music/godsmack/when legends rise/03 Unforgettable.mp3
@@ -363,171 +253,118 @@
 /home/sven/Music/halestorm/2018 - Vicious/10 - White Dress.mp3
 /home/sven/Music/halestorm/2018 - Vicious/11 - Vicious.mp3
 /home/sven/Music/halestorm/2018 - Vicious/12 - The Silence.mp3
-/home/sven/Music/iron maiden/Albums/1986 - Somewhere In Time/02 - Wasted Years.mp3
-/home/sven/Music/iron maiden/Albums/1986 - Somewhere In Time/03 - Sea Of Madness.mp3
-/home/sven/Music/iron maiden/Albums/1986 - Somewhere In Time/04 - Heaven Can Wait.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/01 - Invaders.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/02 - Children Of The Damned.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/03 - The Prisoner.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/05 - The Number Of The Beast.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/06 - Run To The Hills.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/07 - Gangland.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/08 - Hallowed Be Thy Name.mp3
-/home/sven/Music/iron maiden/Albums/1980 - Iron Maiden/02 - Remember Tomorrow.mp3
-/home/sven/Music/iron maiden/Albums/1980 - Iron Maiden/03 - Running Free.mp3
-/home/sven/Music/iron maiden/Albums/1980 - Iron Maiden/06 - Strange World.mp3
-/home/sven/Music/iron maiden/Albums/1980 - Iron Maiden/09 - Iron Maiden.mp3
-/home/sven/Music/iron maiden/Albums/1990 - No Prayer For The Dying/02 - Holy Smoke.mp3
-/home/sven/Music/iron maiden/Albums/1990 - No Prayer For The Dying/07 - Run Silent Run Deep.mp3
-/home/sven/Music/iron maiden/Albums/1990 - No Prayer For The Dying/08 - Hooks In You.mp3
-/home/sven/Music/iron maiden/Albums/1990 - No Prayer For The Dying/09 - Bring Your Daughter... To The Slaughter.mp3
-/home/sven/Music/iron maiden/Albums/1980 - Iron Maiden/Bonus Disc/01 - Burning Ambition.mp3
-/home/sven/Music/iron maiden/Albums/1990 - No Prayer For The Dying/Bonus Disc/02 - Kill Me Ce Soir.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/Bonus Disc/01 - I've Got the Fire.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/Bonus Disc/01 - Rainbow's Gold.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/Bonus Disc/03 - King Of Twilight.mp3
-/home/sven/Music/iron maiden/Albums/1986 - Somewhere In Time/Bonus Disc/01 - Reach Out.mp3
-/home/sven/Music/iron maiden/Albums/1986 - Somewhere In Time/Bonus Disc/04 - Juanita.mp3
-/home/sven/Music/iron maiden/Albums/1986 - Somewhere In Time/Bonus Disc/03 - That Girl.mp3
-/home/sven/Music/iron maiden/Albums/1982 - The Number Of The Beast/Bonus Disc/01 - Total Eclipse.mp3
-/home/sven/Music/iron maiden/Albums/1992 - Fear Of The Dark/12 - Fear Of The Dark.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/01 - Where Eagles Dare.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/02 - Revelations.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/03 - Flight Of Icarus.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/04 - Die With Your Boots On.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/07 - Quest For Fire.mp3
-/home/sven/Music/iron maiden/Albums/1983 - Piece Of Mind/08 - Sun And Steel.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/01 - Aces High.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/02 - 2 Minutes to Midnight.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/04 - Flash of the Blade.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/05 - The Duellists.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/06 - Back in the Village.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/07 - Powerslave.mp3
-/home/sven/Music/iron maiden/Albums/1984 - Powerslave/08 - Rime of the Ancient Mariner.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/01 - The Wicker Man.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/02 - Ghost of The Navigator.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/03 - Brave New World.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/04 - Blood Brothers.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/05 - The Mercenary.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/06 - Dream of Mirrors.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/07 - The Fallen Angel.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/08 - The Nomad.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/09 - Out of The Silent Planet.mp3
-/home/sven/Music/iron maiden/Albums/2000 - Brave New World/10 - The Thin Line Between Love & Hate.mp3
-/home/sven/Music/iron maiden/Albums/2003 - Dance Of Death/05 - Dance of death.mp3
-/home/sven/Music/iron maiden/Albums/2003 - Dance Of Death/08 - Paschendale.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/01 - Different World.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/02 - These Colours Don't Run.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/03 - Brighter Than A Thousand Suns.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/04 - The Pilgrim.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/05 - The Longest Day.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/06 - Out Of The Shadows.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/07 - The Reincarnation Of Benjamin Breeg.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/09 - Lord Of Light.mp3
-/home/sven/Music/iron maiden/Albums/2006 - A Matter Of Life And Death/10 - The Legacy.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/02 - El Dorado.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/03 - Mother Of Mercy.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/04 - Coming Home.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/05 - The Alchemist.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/06 - Isle Of Avalon.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/07 - Starblind.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/08 - The Talisman.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/09 - The Man Who Would Be King.mp3
-/home/sven/Music/iron maiden/Albums/2010 - The Final Frontier/10 - When The Wild Wind Blows.mp3
-/home/sven/Music/led zeppelin/01. Studio albums/03. Led Zeppelin III (1970)/01. Immigrant Song.mp3
-/home/sven/Music/led zeppelin/01. Studio albums/04. Led Zeppelin IV (1971)/04. Stairway To Heaven.mp3
-/home/sven/Music/led zeppelin/01. Studio albums/06. Physical Graffiti (1975)/CD1/06. Kashmir.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/01 - Papercut.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/02 - One Step Closer.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/04 - Points of Authority.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/06 - Runaway.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/07 - By Myself.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/08 - In the End.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/09 - A Place for My Head.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/04 - My December.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/05 - High Voltage.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/05 - Crawling.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/10 - Forgotten.mp3
-/home/sven/Music/linkin park/Albums/01 - Hybrid Theory (2000)/12 - Pushing Me Away.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/12 - Session.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/02 - Don't Stay.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/03 - Somewhere I Belong.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/04 - Lying from You.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/05 - Hit the Floor.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/06 - Easier to Run.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/07 - Faint.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/08 - Figure.09.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/10 - From the Inside.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/11 - Nobody's Listening.mp3
-/home/sven/Music/linkin park/Albums/03 - Meteora (2003)/13 - Numb.mp3
-/home/sven/Music/linkin park/LPU/2003 - Underground 3.0/03 - With You.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/03 - Leave Out All the Rest.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/05 - Shadow of the Day.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/07 - Hands Held High.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/08 - No More Sorrow.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/09 - Valentine's Day.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/10 - In Between.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/11 - In Pieces.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/12 - The Little Things Give You Away.mp3
-/home/sven/Music/linkin park/Albums/06 - Minutes To Midnight (2007)/Tour Edition Bonus Tracks/13 - No Roads Left (Bonus).mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/03 - Burning In The Skies.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/05 - When They Come For Me.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/06 - Robot Boy.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/08 - Waiting For The End.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/09 - Blackout.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/10 - Wretches And Kings.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/12 - Iridescent.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/14 - The Catalyst.mp3
-/home/sven/Music/linkin park/Albums/08 - A Thousand Suns (2010)/15 - The Messenger.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/01 - LOST IN THE ECHO.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/02 - IN MY REMAINS.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/03 - BURN IT DOWN.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/04 - LIES GREED MISERY.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/05 - I'LL BE GONE.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/06 - CASTLE OF GLASS.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/07 - VICTIMIZED.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/08 - ROADS UNTRAVELED.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/09 - SKIN TO BONE.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/10 - UNTIL IT BREAKS.mp3
-/home/sven/Music/linkin park/Albums/10 - LIVING THINGS (2012)/12 - POWERLESS.mp3
-/home/sven/Music/linkin park/LPU/2012 - Underground 12/06 - So Far Away (Unreleased 1998).mp3
-/home/sven/Music/linkin park/Albums/The hunting party/03 Guilty All The Same (Feat. Rakim).mp3
-/home/sven/Music/linkin park/Albums/The hunting party/06 Wastelands.mp3
-/home/sven/Music/linkin park/Albums/The hunting party/07 Until It's Gone.mp3
-/home/sven/Music/linkin park/Albums/The hunting party/08 Rebellion (Feat. Daron Malakian).mp3
-/home/sven/Music/linkin park/Albums/The hunting party/09 Mark The Graves.mp3
-/home/sven/Music/linkin park/Albums/The hunting party/11 Final Masquerade.mp3
-/home/sven/Music/linkin park/Albums/The hunting party/12 A Line In The Sand.mp3
-/home/sven/Music/linkin park/Albums/One more light/01. Nobody Can Save Me.mp3
-/home/sven/Music/linkin park/Albums/One more light/02. Good Goodbye (feat. Pusha T & Stormzy).mp3
-/home/sven/Music/linkin park/Albums/One more light/03. Talking to Myself.mp3
-/home/sven/Music/linkin park/Albums/One more light/04. Battle Symphony.mp3
-/home/sven/Music/linkin park/Albums/One more light/05. Invisible.mp3
-/home/sven/Music/linkin park/Albums/One more light/06. Heavy (feat. Kiiara).mp3
-/home/sven/Music/linkin park/Albums/One more light/07. Sorry for Now.mp3
-/home/sven/Music/linkin park/Albums/One more light/08. Halfway Right.mp3
-/home/sven/Music/linkin park/Albums/One more light/09. One More Light.mp3
-/home/sven/Music/linkin park/Albums/One more light/10. Sharp Edges.mp3
+/home/sven/Music/iron maiden/1982 - The Number Of The Beast/05 - The Number Of The Beast.mp3
+/home/sven/Music/iron maiden/1982 - The Number Of The Beast/06 - Run To The Hills.mp3
+/home/sven/Music/iron maiden/1982 - The Number Of The Beast/08 - Hallowed Be Thy Name.mp3
+/home/sven/Music/iron maiden/1990 - No Prayer For The Dying/02 - Holy Smoke.mp3
+/home/sven/Music/iron maiden/1990 - No Prayer For The Dying/08 - Hooks In You.mp3
+/home/sven/Music/iron maiden/1990 - No Prayer For The Dying/09 - Bring Your Daughter... To The Slaughter.mp3
+/home/sven/Music/iron maiden/1990 - No Prayer For The Dying/Bonus Disc/02 - Kill Me Ce Soir.mp3
+/home/sven/Music/iron maiden/1992 - Fear Of The Dark/12 - Fear Of The Dark.mp3
+/home/sven/Music/iron maiden/1983 - Piece Of Mind/01 - Where Eagles Dare.mp3
+/home/sven/Music/iron maiden/1983 - Piece Of Mind/03 - Flight Of Icarus.mp3
+/home/sven/Music/iron maiden/1983 - Piece Of Mind/07 - Quest For Fire.mp3
+/home/sven/Music/iron maiden/1983 - Piece Of Mind/08 - Sun And Steel.mp3
+/home/sven/Music/iron maiden/2000 - Brave New World/09 - Out of The Silent Planet.mp3
+/home/sven/Music/iron maiden/2003 - Dance Of Death/05 - Dance of death.mp3
+/home/sven/Music/iron maiden/2003 - Dance Of Death/08 - Paschendale.mp3
+/home/sven/Music/iron maiden/2006 - A Matter Of Life And Death/05 - The Longest Day.mp3
+/home/sven/Music/iron maiden/2006 - A Matter Of Life And Death/06 - Out Of The Shadows.mp3
+/home/sven/Music/iron maiden/2010 - The Final Frontier/02 - El Dorado.mp3
+/home/sven/Music/iron maiden/2010 - The Final Frontier/10 - When The Wild Wind Blows.mp3
+/home/sven/Music/led zeppelin/03. Led Zeppelin III (1970)/01. Immigrant Song.mp3
+/home/sven/Music/led zeppelin/04. Led Zeppelin IV (1971)/04. Stairway To Heaven.mp3
+/home/sven/Music/led zeppelin/06. Physical Graffiti (1975)/CD1/06. Kashmir.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/01 - Papercut.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/02 - One Step Closer.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/04 - Points of Authority.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/06 - Runaway.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/07 - By Myself.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/08 - In the End.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/09 - A Place for My Head.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/04 - My December.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/Special Edition Bonus Tracks/05 - High Voltage.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/05 - Crawling.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/10 - Forgotten.mp3
+/home/sven/Music/linkin park/01 - Hybrid Theory (2000)/12 - Pushing Me Away.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/12 - Session.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/02 - Don't Stay.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/03 - Somewhere I Belong.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/04 - Lying from You.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/05 - Hit the Floor.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/06 - Easier to Run.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/07 - Faint.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/08 - Figure.09.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/10 - From the Inside.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/11 - Nobody's Listening.mp3
+/home/sven/Music/linkin park/03 - Meteora (2003)/13 - Numb.mp3
+/home/sven/Music/linkin park/2003 - Underground 3.0/03 - With You.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/03 - Leave Out All the Rest.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/05 - Shadow of the Day.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/07 - Hands Held High.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/08 - No More Sorrow.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/09 - Valentine's Day.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/10 - In Between.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/11 - In Pieces.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/12 - The Little Things Give You Away.mp3
+/home/sven/Music/linkin park/06 - Minutes To Midnight (2007)/Tour Edition Bonus Tracks/13 - No Roads Left (Bonus).mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/03 - Burning In The Skies.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/05 - When They Come For Me.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/06 - Robot Boy.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/08 - Waiting For The End.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/09 - Blackout.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/10 - Wretches And Kings.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/12 - Iridescent.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/14 - The Catalyst.mp3
+/home/sven/Music/linkin park/08 - A Thousand Suns (2010)/15 - The Messenger.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/01 - LOST IN THE ECHO.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/02 - IN MY REMAINS.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/03 - BURN IT DOWN.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/04 - LIES GREED MISERY.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/05 - I'LL BE GONE.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/06 - CASTLE OF GLASS.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/07 - VICTIMIZED.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/08 - ROADS UNTRAVELED.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/09 - SKIN TO BONE.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/10 - UNTIL IT BREAKS.mp3
+/home/sven/Music/linkin park/10 - LIVING THINGS (2012)/12 - POWERLESS.mp3
+/home/sven/Music/linkin park/2012 - Underground 12/06 - So Far Away (Unreleased 1998).mp3
+/home/sven/Music/linkin park/The hunting party/03 Guilty All The Same (Feat. Rakim).mp3
+/home/sven/Music/linkin park/The hunting party/06 Wastelands.mp3
+/home/sven/Music/linkin park/The hunting party/07 Until It's Gone.mp3
+/home/sven/Music/linkin park/The hunting party/08 Rebellion (Feat. Daron Malakian).mp3
+/home/sven/Music/linkin park/The hunting party/09 Mark The Graves.mp3
+/home/sven/Music/linkin park/The hunting party/11 Final Masquerade.mp3
+/home/sven/Music/linkin park/The hunting party/12 A Line In The Sand.mp3
+/home/sven/Music/linkin park/One more light/01. Nobody Can Save Me.mp3
+/home/sven/Music/linkin park/One more light/02. Good Goodbye (feat. Pusha T & Stormzy).mp3
+/home/sven/Music/linkin park/One more light/03. Talking to Myself.mp3
+/home/sven/Music/linkin park/One more light/04. Battle Symphony.mp3
+/home/sven/Music/linkin park/One more light/05. Invisible.mp3
+/home/sven/Music/linkin park/One more light/06. Heavy (feat. Kiiara).mp3
+/home/sven/Music/linkin park/One more light/07. Sorry for Now.mp3
+/home/sven/Music/linkin park/One more light/08. Halfway Right.mp3
+/home/sven/Music/linkin park/One more light/09. One More Light.mp3
+/home/sven/Music/linkin park/One more light/10. Sharp Edges.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/01 - Off You Go.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/02 - Greetings From California.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/03 - Wake Up.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/04 - Levee.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/05 - Denial.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/06 - Loaded Shotgun& The Silver Spoon.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/07 - Consequences.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/08 - Glory.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/09 - Out Of The Rain.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/10 - Round The World.mp3
+/home/sven/Music/pop evil/2004 - War Of The Roses/11 - Candy.mp3
 /home/sven/Music/pop evil/2008 - Lipstick on the Mirror/01 - Hero.mp3
 /home/sven/Music/pop evil/2008 - Lipstick on the Mirror/02 - Breathe.mp3
 /home/sven/Music/pop evil/2008 - Lipstick on the Mirror/03 - Shinedown.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/04 - 100 in a 55.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/05 - Somebody Like You.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/06 - 3 Seconds to Freedom.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/07 - Another Romeo & Juliet.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/08 - Stepping Stone.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/09 - Jupiter in June.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/10 - One More Goodbye.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/11 - Ready or Not.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/12 - Hard Highway.mp3
-/home/sven/Music/pop evil/2008 - Lipstick on the Mirror/13 - Hey Mister.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/01 Last Man Standing.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/02 Epitaph.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/03 Broken & Betrayed.mp3
-/home/sven/Music/pop evil/2011 - War of Angels/04 Monster You Made.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/05 Let It Go.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/06 Boss's Daughter.mp3
-/home/sven/Music/pop evil/2011 - War of Angels/07 Daisy Chain.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/08 Purple.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/09 Black & Blue.mp3
 /home/sven/Music/pop evil/2011 - War of Angels/10 Next Life.mp3
@@ -544,11 +381,22 @@
 /home/sven/Music/pop evil/2014 - Onyx/09. Fly Away.mp3
 /home/sven/Music/pop evil/2014 - Onyx/10. Behind Closed Doors.mp3
 /home/sven/Music/pop evil/2014 - Onyx/11. Welcome To Reality.mp3
-/home/sven/Music/pop evil/2014 - Onyx/12. Flawed.mp3
+/home/sven/Music/pop evil/2015 - Up/01-pop_evil-footsteps.mp3
+/home/sven/Music/pop evil/2015 - Up/02-pop_evil-core.mp3
+/home/sven/Music/pop evil/2015 - Up/03-pop_evil-in_disarray.mp3
+/home/sven/Music/pop evil/2015 - Up/04-pop_evil-take_it_all.mp3
+/home/sven/Music/pop evil/2015 - Up/05-pop_evil-ghost_of_muskegon.mp3
+/home/sven/Music/pop evil/2015 - Up/06-pop_evil-if_only_for_now.mp3
+/home/sven/Music/pop evil/2015 - Up/07-pop_evil-..mp3
+/home/sven/Music/pop evil/2015 - Up/08-pop_evil-ways_to_get_high.mp3
+/home/sven/Music/pop evil/2015 - Up/09-pop_evil-lux.mp3
+/home/sven/Music/pop evil/2015 - Up/10-pop_evil-vendetta.mp3
+/home/sven/Music/pop evil/2015 - Up/11-pop_evil-dead_in_the_water.mp3
+/home/sven/Music/pop evil/2015 - Up/12-pop_evil-seattle_rain.mp3
+/home/sven/Music/pop evil/2015 - Up/13-pop_evil-til_kingdom_come.mp3
+/home/sven/Music/pop evil/2015 - Up/14-pop_evil-my_confessions_(bonus_track).mp3
+/home/sven/Music/pop evil/2015 - Up/15-pop_evil-footsteps_(acoustic)_(bonus_track).mp3
 /home/sven/Music/pop evil/2018 - Pop Evil/01. Waking Lions.mp3
-/home/sven/Music/pop evil/2018 - Pop Evil/02. Colors Bleed.mp3
-/home/sven/Music/pop evil/2018 - Pop Evil/03. Ex Machina.mp3
-/home/sven/Music/pop evil/2018 - Pop Evil/04. Art of War.mp3
 /home/sven/Music/pop evil/2018 - Pop Evil/05. Be Legendary.mp3
 /home/sven/Music/pop evil/2018 - Pop Evil/06. Nothing but Thieves.mp3
 /home/sven/Music/pop evil/2018 - Pop Evil/07. A Crime to Remember.mp3
