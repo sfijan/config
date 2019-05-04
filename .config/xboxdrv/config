@@ -1,9 +1,0 @@
-[ui-buttonmap]
-dl=KEY_PREVIOUSSONG
-dr=KEY_NEXTSONG
-du=exec:/home/sven/.config/xboxdrv/vol-up.sh
-dd=exec:/home/sven/.config/xboxdrv/vol-dn.sh
-tl=KEY_PLAYPAUSE
-
-
-# EOF #
