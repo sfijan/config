@@ -1,3 +1,9 @@
+# archserver ssh from local
+function archserver
+    ssh sven@192.168.1.8 -p 55555
+end
+
+
 # Rebind nvim to vim
 function vim
     nvim $argv
