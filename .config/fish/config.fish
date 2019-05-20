@@ -1,3 +1,11 @@
+# keyboard layout functions
+function us
+    setxkbmap -layout us ; and xmodmap ~/.xres/Xmodmap
+end
+function hr
+    setxkbmap -layout hr ; and xmodmap ~/.xres/Xmodmap
+end
+
 # archserver ssh from local
 function archserver
     ssh sven@192.168.1.8 -p 55555
