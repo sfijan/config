@@ -1,9 +1,12 @@
-" ██╗   ██╗██╗███╗   ███╗
-" ██║   ██║██║████╗ ████║
-" ██║   ██║██║██╔████╔██║
-" ╚██╗ ██╔╝██║██║╚██╔╝██║
-"  ╚████╔╝ ██║██║ ╚═╝ ██║
-"   ╚═══╝  ╚═╝╚═╝     ╚═╝
+" ██╗   ██╗██╗███╗   ███╗     ██████╗ ██████╗ ███╗  ██╗███████╗██╗ ██████╗ 
+" ██║   ██║██║████╗ ████║    ██╔════╝██╔═══██╗████╗ ██║██╔════╝██║██╔════╝ 
+" ██║   ██║██║██╔████╔██║    ██║     ██║   ██║██╔██╗██║█████╗  ██║██║  ███╗
+" ╚██╗ ██╔╝██║██║╚██╔╝██║    ██║     ██║   ██║██║╚████║██╔══╝  ██║██║   ██║
+"  ╚████╔╝ ██║██║ ╚═╝ ██║    ╚██████╗╚██████╔╝██║ ╚███║██║     ██║╚██████╔╝
+"   ╚═══╝  ╚═╝╚═╝     ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚══╝╚═╝     ╚═╝ ╚═════╝ 
+"
+" vim-plug intallation
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 
 set number linebreak scrolloff=5
@@ -15,6 +18,15 @@ noremap J 5j
 noremap K 5k
 noremap L $
 noremap H ^
+
+nnoremap : ;
+nnoremap ; :
+vnoremap : ;
+vnoremap ; :
+
+tnoremap <Esc> <C-\><C-n>
+
+
 
 set shiftwidth=4
 set softtabstop=4
