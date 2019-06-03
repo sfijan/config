@@ -1,0 +1,4 @@
+#/usr/bin/bash
+setxkbmap -layout hr
+xmodmap ~/.xres/Xmodmap
+xmodmap ~/.xres/set_zy

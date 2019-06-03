@@ -1,9 +1,12 @@
 # keyboard layout functions
 function us
-    setxkbmap -layout us ; and xmodmap ~/.xres/Xmodmap
+    setxkbmap -layout us
+    xmodmap ~/.xres/Xmodmap
 end
 function hr
-    setxkbmap -layout hr ; and xmodmap ~/.xres/Xmodmap
+    setxkbmap -layout hr
+    xmodmap ~/.xres/Xmodmap
+    xmodmap ~/.xres/set_zy
 end
 
 # archserver ssh from local
