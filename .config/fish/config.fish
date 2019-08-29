@@ -1,3 +1,9 @@
+# startx on 1
+if test ! $DISPLAY && test $XDG_VTNR -eq 1
+    startx ~/.xinitrc -- :0
+end
+
+
 # keyboard layout functions
 function us
     setxkbmap -layout us
@@ -10,8 +16,8 @@ function hr
 end
 
 # archserver ssh from local
-function archserver
-    ssh sven@192.168.1.8 -p 55555
+function nas
+    ssh root@192.168.1.8 -p 55555
 end
 
 
@@ -69,12 +75,12 @@ end
 
 
 # Ruby
-status --is-interactive; and source (rbenv init -|psub)
+#status --is-interactive; and source (rbenv init -|psub)
 
 
 # Set default scrot location to ~/Pictures/screenshots/
 function screenshot
-    scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/Pictures/screenshots/' $argv
+    scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/' $argv
 end
 
 
