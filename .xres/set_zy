@@ -1,0 +1,4 @@
+! Swap z and y for croatian layout
+
+keysym z = y
+keysym y = z
