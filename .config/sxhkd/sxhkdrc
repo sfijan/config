@@ -135,9 +135,11 @@ XF86AudioMute
 
 # Backlight control
 XF86MonBrightnessUp 
-    light -A 5
+    xbacklight -inc 5
+    #light -A 5
 XF86MonBrightnessDown
-    light -U 5
+    xbacklight -dec 5
+    #light -U 5
 
 # Media playback
 XF86AudioPlay
@@ -157,6 +159,6 @@ super + x
     betterlockscreen --lock
 
 # Screenshot
-super + Print
-    scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/' -s
+Print
+    scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/'
 
