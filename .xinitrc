@@ -17,6 +17,9 @@ thunar --daemon &
 # set the wallpaper
 feh --bg-scale ~/pics/wallpapers/portal-who.jpg &
 
+# start libinput-gestures
+libinput-gestures-setup restart &
+
 compton &
 sxhkd &
 exec bspwm
