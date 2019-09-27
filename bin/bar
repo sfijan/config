@@ -1,0 +1,48 @@
+#!/usr/bin/bash
+
+clock() {
+    date '+%H:%M'
+}
+
+battery() {
+    BATS=/sys/class/power_supply/BAT1/status
+    BATC=/sys/class/power_supply/BAT1/capacity
+
+    case "$(cat $BATS)" in
+    "Full")
+	echo Full
+	;;
+    "Discharging")
+	echo -n -$(cat $BATC)%
+	;;
+    "Charging")
+	echo -n +$(cat $BATC)%
+	;;
+    esac
+}
+
+brightness() {
+    light | cut -d . -f 1
+}
+
+volume() {
+    POW="$(amixer get Master | sed -n 's/^.*\[\(o[nf]\+\)\]$/\1/p'| uniq)"
+    if [ $POW = "off" ]
+    then
+	echo "Mute"
+    else
+	echo "$(amixer get Master | sed -n 's/^.*\[\([0-9]\+\)%.*$/\1/p'| uniq)%"
+    fi
+}
+
+
+while :; do
+    buf=""
+    buf="${buf} CLK: $(clock) |"
+    buf="${buf} BAT: $(battery) |"
+    buf="${buf} BRI: $(brightness)% |"
+    buf="${buf} VOL: $(volume) |"
+
+    echo $buf
+    sleep 1
+done
