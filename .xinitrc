@@ -12,7 +12,7 @@ xmodmap ~/.xres/Xmodmap
 # start thunar for automounting and faster launching
 thunar --daemon &
 
-~/documents/programs/bar.sh | lemonbar -p &
+bar | lemonbar -p &
 
 # set the wallpaper
 feh --bg-scale ~/pics/wallpapers/portal-who.jpg &
