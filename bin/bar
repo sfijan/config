@@ -38,10 +38,11 @@ volume() {
 
 while :; do
     buf=""
-    buf="${buf} CLK: $(clock) |"
+    buf="${buf}  CLK: $(clock)"
+    buf="${buf} %{r}"
     buf="${buf} BAT: $(battery) |"
     buf="${buf} BRI: $(brightness)% |"
-    buf="${buf} VOL: $(volume) |"
+    buf="${buf} VOL: $(volume)  "
 
     echo $buf
     sleep 1
