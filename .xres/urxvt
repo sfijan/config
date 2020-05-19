@@ -12,7 +12,7 @@ URxvt*internalBorder:     20
 URxvt*borderLess: false
 
 ! transparancy
-urxvt*transparent: true
+!urxvt*transparent: true
 urxvt*shading: 30
 
 ! font
