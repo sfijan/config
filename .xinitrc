@@ -4,22 +4,27 @@
 #
 # Executed by startx (run your window manager from here)
 
-# merge in defaults and keymaps
-
-xrdb -load ~/.Xresources &
-xmodmap ~/.xres/Xmodmap 
+# fonts
+#xset +fp /home/sven/.fonts
+#xset fp rehash
 
 # start thunar for automounting and faster launching
 thunar --daemon &
 
+# start bar
 bar | lemonbar -p &
 
 # set the wallpaper
-feh --bg-scale ~/pics/wallpapers/portal-who.jpg &
+habak -hi ~/pics/wallpapers
 
 # start libinput-gestures
 libinput-gestures-setup restart &
 
-compton &
+# merge in defaults and keymaps
+xrdb -load ~/.Xresources &
+xmodmap ~/.xres/Xmodmap 
+
+picom -b &
 sxhkd &
 exec bspwm
+#exec i3
