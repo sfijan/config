@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+scrot -so '/tmp/ocr.png'
+v=$(tesseract /tmp/ocr.png -)
+v=${v//$'\f'}
+#v=${v::-1}
+echo -n $v | xclip -i
