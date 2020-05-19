@@ -9,7 +9,10 @@
 " curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 
-set number relativenumber linebreak scrolloff=5
+set number
+set relativenumber
+set linebreak
+set scrolloff=5
 
 augroup numbertoggle
   autocmd!
@@ -17,12 +20,15 @@ augroup numbertoggle
   autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
 augroup END
 
-"search
+" search
 set ignorecase smartcase
+
+" set display of hex values
+set statusline=%<%f%h%m%r%=%b\ 0x%B\ \ %l,%c%V\ %P
 
 noremap J 5j
 noremap K 5k
-noremap L $
+noremap L g_
 noremap H ^
 
 nnoremap : ;
@@ -46,29 +52,27 @@ set noswapfile
 let g:python3_host_prog = '/usr/bin/python3'
 let g:python_host_prog = '/usr/bin/python2'
 
-"vim plug
-call plug#begin()
+" vim plug
+call plug#begin('~/.config/nvim/plugged')
 Plug 'alvan/vim-closetag'
-"Plug 'SirVer/ultisnips'
-"Plug 'jvanja/vim-bootstrap4-snippets'
 Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 Plug 'terryma/vim-multiple-cursors'
-" Plug 'vim-airline/vim-airline'
-" Plug 'vim-airline/vim-airline-themes'
-" Plug 'yuttie/comfortable-motion.vim'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
-" Plug 'morhetz/gruvbox'
+Plug 'preservim/nerdtree'	"TODO
 call plug#end()
 
-"auto pairs
-" au FileType html let b:AutoPairs = AutoPairsDefine({'<' : '>'})
+" auto pairs
+au FileType html let b:AutoPairs = AutoPairsDefine({'<' : '>'})
 
-"deoplete
+" deoplete
 let g:deoplete#enable_at_startup = 1
 inoremap <expr><tab> pumvisible() ? "\<c-n>" : "\<tab>"
 
-"ultisnips
-"let g:UltiSnipsExpandTrigger="<tab>"
-"let g:UltiSnipsJumpForwardTrigger="<c-b>"
-"let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+" NERDTree
+noremap <Leader><Space> :NERDTreeToggle<CR>
+let g:NERDTreeIgnore = ['^\.git$', '^node_modules$']
+command NTF NERDTreeFind
+" open NERDTree if a blank file was opened
+autocmd VimEnter * if !argc() | NERDTree | endif 
+autocmd BufEnter * if !argc() | NERDTreeMirror | endif
