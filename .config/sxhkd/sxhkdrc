@@ -6,6 +6,11 @@
 super + Return
 	urxvt
 
+# floating terminal emulator
+#super + shift + Return
+#	urxvt
+#	bspc node -t floating
+
 # program launcher
 super + d
 	rofi -show run
@@ -127,9 +132,9 @@ super + {Left,Down,Up,Right}
 
 # Volume control
 XF86AudioRaiseVolume
-    amixer -q sset Master 3%+
+    amixer -q sset Master 5%+
 XF86AudioLowerVolume
-    amixer -q sset Master 3%-
+    amixer -q sset Master 5%-
 XF86AudioMute 
     amixer -q set Master 1+ toggle
 
@@ -143,11 +148,14 @@ XF86MonBrightnessDown
 
 # Media playback
 XF86AudioPlay
-    cmus-remote --pause #/play
+    rhythmbox-client --play-pause
+    #cmus-remote --pause #/play
 XF86AudioNext
-    cmus-remote --next
+    rhythmbox-client --next
+    #cmus-remote --next
 XF86AudioPrev
-    cmus-remote --prev
+    rhythmbox-client --previous
+    #cmus-remote --prev
 
 
 #
@@ -159,6 +167,6 @@ super + x
     betterlockscreen --lock
 
 # Screenshot
-Print
+super + Print
     scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/'
 
