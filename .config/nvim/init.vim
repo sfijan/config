@@ -38,6 +38,17 @@ vnoremap ; :
 
 tnoremap <Esc> <C-\><C-n>
 
+" create undo dir if doesn't exist
+if !isdirectory($HOME."/.vim")
+    call mkdir($HOME."/.vim", "", 0770)
+endif
+if !isdirectory($HOME."/.vim/undo-dir")
+    call mkdir($HOME."/.vim/undo-dir", "", 0700)
+endif
+" use undo dir
+set undodir=~/.vim/undo-dir
+set undofile
+
 
 
 set shiftwidth=4
@@ -60,6 +71,8 @@ Plug 'sheerun/vim-polyglot'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'preservim/nerdtree'	"TODO
+Plug 'RRethy/vim-illuminate'
+Plug 'lilydjwg/colorizer'
 call plug#end()
 
 " auto pairs
@@ -76,3 +89,7 @@ command NTF NERDTreeFind
 " open NERDTree if a blank file was opened
 autocmd VimEnter * if !argc() | NERDTree | endif 
 autocmd BufEnter * if !argc() | NERDTreeMirror | endif
+
+" vim-illuminate
+"hi link illuminatedWord Visual
+

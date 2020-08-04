@@ -4,7 +4,13 @@
 
 # terminal emulator
 super + Return
-	urxvt
+	alacritty
+	#st
+	#urxvt
+
+#WIP, make opposite split direction
+super + shift + Return
+	bspc node -p south && alacritty
 
 # floating terminal emulator
 #super + shift + Return
@@ -140,22 +146,22 @@ XF86AudioMute
 
 # Backlight control
 XF86MonBrightnessUp 
-    xbacklight -inc 5
-    #light -A 5
+    light -A 2
+    #xbacklight -inc 5
 XF86MonBrightnessDown
-    xbacklight -dec 5
-    #light -U 5
+    light -U 2
+    #xbacklight -dec 5
 
 # Media playback
 XF86AudioPlay
-    rhythmbox-client --play-pause
-    #cmus-remote --pause #/play
+    cmus-remote --pause #/play
+    #rhythmbox-client --play-pause
 XF86AudioNext
-    rhythmbox-client --next
-    #cmus-remote --next
+    cmus-remote --next
+    #rhythmbox-client --next
 XF86AudioPrev
-    rhythmbox-client --previous
-    #cmus-remote --prev
+    cmus-remote --prev
+    #rhythmbox-client --previous
 
 
 #
@@ -165,8 +171,10 @@ XF86AudioPrev
 # Lockscreen
 super + x
     betterlockscreen --lock
-
 # Screenshot
 super + Print
-    scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/'
+    screenshot
+    #scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/'
+#super + shift + Print
+#    scrot '%Y-%m-%d_%H:%M.png' -e 'mv --backup=t $f ~/pics/screenshots/' -s
 

@@ -24,7 +24,7 @@ libinput-gestures-setup restart &
 xrdb -load ~/.Xresources &
 xmodmap ~/.xres/Xmodmap 
 
-picom -b &
+picom -b
 sxhkd &
 exec bspwm
 #exec i3

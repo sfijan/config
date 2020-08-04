@@ -16,9 +16,10 @@ URxvt*borderLess: false
 urxvt*shading: 30
 
 ! font
-URxvt.letterSpace:	1
+!URxvt.letterSpace:	-4
 !URxvt.font:	    xft:DejaVu Sans Mono:size=12
-URxvt.font:	    xft:Anonymous Pro:size=12
+!URxvt.font:	    xft:Anonymous Pro:size=12
+URxvt.font:	    xft:Source Code Pro for Powerline:size=12
 !URxvt.font:	    xft:monaco:size=11
 
 ! scrollbar
