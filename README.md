@@ -30,4 +30,5 @@ config checkout
 - update readme
 - zsh prompt
 - choose DE on login
+- script on server to set up config repository
 - ...
